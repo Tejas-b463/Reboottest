@@ -1,0 +1,74 @@
+.athletes-container {
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.text-main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.athletes-text {
+    text-align: center;
+    width: 600px;
+}
+
+.athletes-text h1 {
+    font-weight: 600;
+    font-size: 36px;
+    text-transform: uppercase;
+}
+
+.athletes-text p {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+
+/* box */
+
+.athlets-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.athletes-content {
+    margin-top: 50px;
+    text-align: center;
+    margin-right: 80px;
+    background-color: #FFFFFF;
+}
+
+.athletes-content h1 {
+    font-size: 24px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #414549;
+}
+
+.athletes-content p {
+    font-weight: 400;
+    font-size: 18px;
+    padding: 30px;
+    color: #646464;
+}
+
+.athletes-content button {
+    padding: 10px 53px 10px 53px;
+    border-radius: 7px;
+    border: none;
+    background-color: #DF424C;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.athletes-sub img {
+    width: 288px;
+    height: 361px;
+    border-radius: 8px;
+}

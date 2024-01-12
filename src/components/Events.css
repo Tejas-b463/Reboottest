@@ -1,0 +1,32 @@
+.events-container {
+    margin-top: 80px;
+}
+
+.text-main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.athletes-text {
+    text-align: center;
+    width: 600px;
+}
+
+.athletes-text h1 {
+    font-weight: 600;
+    font-size: 36px;
+    text-transform: uppercase;
+}
+
+.athletes-text p {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+
+/* boxes */
+
+.section1-container {
+    display: flex;
+}

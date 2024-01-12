@@ -1,0 +1,22 @@
+.video {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.video img {
+    width: 1451px;
+    height: 533px
+}
+
+.video-sub {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+    width: 179px;
+    background-color: #DF424C;
+    color: #FFFFFF;
+    border-radius: 50%;
+    padding: 20px;
+}
